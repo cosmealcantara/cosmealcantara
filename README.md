@@ -6,9 +6,12 @@
 
 💪Com foco, força e sempre aprendendo 
 
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> 
+
 ## 🌐 Redes Sociais: <br>
 
 <div>
   <a href="https://www.linkedin.com/in/cosme-alc%C3%A2ntara-70239b19b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
