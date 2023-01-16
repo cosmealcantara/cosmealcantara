@@ -5,7 +5,7 @@
 
 👨‍🎓Estou iniciando meus estudos 📚 nesta área 💻
 
-💪Com foco, força e sempre aprendendo 
+💪Com foco, força e sempre aprendendo :metal:
 
 
   <table>
