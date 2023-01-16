@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/cosmealcantara)
 ### Hi Galera 👋😃
 
 👨‍💼Eu ainda não estou trabalhando esta área,🖥️ porém quero trabalhar 😃
@@ -6,7 +7,28 @@
 
 💪Com foco, força e sempre aprendendo 
 
+
+  <table>
+    <tr>
+      <td>
+        <b>🎓 Cientista da Computação</b>
+      </td>
+      <td>
+        <b></b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
+      </td>
+      <td>
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> 
+   </td>
+    </tr>
+  </table>
+</div>
+
+</div>
 
 ## 🌐 Redes Sociais: <br>
 
@@ -15,3 +37,4 @@
   
 </div>
 
+  
