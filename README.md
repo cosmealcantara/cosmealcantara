@@ -11,10 +11,10 @@
   <table>
     <tr>
       <td>
-        <b>🎓 Cientista da Computação</b>
+        <b>🎓 Cientista da Computação:technologist:</b>
       </td>
       <td>
-        <b></b>
+        <b>:musical_note:MUSIC ON:loud_sound::notes:</b>
       </td>
     </tr>
     <tr>
