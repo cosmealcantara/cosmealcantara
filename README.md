@@ -34,8 +34,12 @@
 
 ## 🌐 Redes Sociais: <br>
 
+
 <div>
-  <a href="https://www.linkedin.com/in/cosme-alc%C3%A2ntara-70239b19b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosme-alc%C3%A2ntara-70239b19b/) 
+  [![Kaggle](https://img.shields.io/badge/kaggle-blue?style=for-the-badge)](https://www.kaggle.com/jaspionalex)
+  
   
 </div>
 
