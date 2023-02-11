@@ -1,4 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/cosmealcantara)
 ### Hi Galera 👋😃
 
 👨‍💼Eu ainda não estou trabalhando esta área,🖥️ porém quero trabalhar 😃
