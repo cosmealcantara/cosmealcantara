@@ -38,7 +38,11 @@
   [![Kaggle](https://img.shields.io/badge/kaggle-blue?style=for-the-badge)](https://www.kaggle.com/jaspionalex)
   <a href = "mailto:alcantara.ale@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <a href="https://linktr.ee/cosmealcantara" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%23E4405F?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+
+    
   </a>  
- 
+
+   
+
 </div>
 
