@@ -2,7 +2,7 @@
 
 🧑‍🎓Estudante de ciência da computação e começando agora neste mundo fantástico, estou me aperfeiçoando linguagens de programação como JavaScript, HTML e CSS e ferramentas como Git, AWS, NodeJS, inteligência artificial, Python, Power By e outras tecnologias. 🧑‍💻
 
-💪Com foco, força e sempre aprendendo :metal:
+💪Com foco, força e sempre aprendendo :metal:🧑‍💻
 
 
   <table>
